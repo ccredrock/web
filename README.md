@@ -8,6 +8,9 @@
 * [小米](./doc/sum_mi.md)
 
 ## 工具控
-* monifocus
-* trello
-* toggl
+* [monifocus](https://www.omnigroup.com/omnifocus)
+* [trello](https://trello.com/)
+* [toggl](https://toggl.com/)
+
+## 书籍
+* [免费开发书籍](https://devfreebooks.github.io/)
